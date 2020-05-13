@@ -1,0 +1,66 @@
+p{
+    color: blue;
+}
+a{
+	 color: red ;
+ }
+body{
+	font-size: 17px;
+	color: black;
+	font-family:arial;
+   background:skyblue;
+    text-transform:uppercase;
+    letter-spacing:0.06em;
+    text-align: left;
+    paint-order: markers;
+    
+
+ }  
+h1{
+	color:#ffc;
+	background-color:#009;
+    border-style: double;
+    border-width:4px;
+    border-right-width: 8px;
+    border-left-width: 8px;
+    border-color:gold;
+    text-align: center;
+}
+h2{    border-style:solid;
+    font-family:serif;
+    text-shadow:red;
+      text-align:center;
+      color:gold;
+}     
+
+
+h3{       border-style:solid;
+    font-family:sans-serif;
+    text-shadow:purple;
+      text-align:center;
+      color:purple;
+      border-width:16px
+      color:blue
+ font-size: 17px
+}
+  h4{border-style:solid;
+    font-family:sans-serif;
+    text-shadow:currentColor;
+      text-align:center;
+      color:maroon;
+      font-size: 17px
+  }   
+  h5{ border-style:solid;
+    font-family:sans-serif;
+    text-shadow:skyblue;
+      text-align:center;
+      color:darkblue;
+      font-size: 17px
+  }
+  h6{border-style:solid;
+    font-family:sans-serif;
+    text-shadow:skyblue;
+      text-align:center;
+      color:maroon;
+      text-align:center;
+      font-size:17px;
